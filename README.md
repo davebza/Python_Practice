@@ -19,7 +19,7 @@ This file is intended to give me a lot of data that I can represent in a GUI tab
 For the file:
 # the_deer_hunter.py #
 
-I've been working on turn-based gameplay, and wanted to add betting to something. This is a fairly morbid exploration into area!
+I've been working on turn-based gameplay, and wanted to add betting to something. This is a fairly morbid exploration into that area!
 I've taken the ending idea of the movie The Deer Hunter, and given an alternate ending, then allow Nick and Michael have at it. 
 
 ##Aims:##

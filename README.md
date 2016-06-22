@@ -25,6 +25,15 @@ I've taken the ending idea of the movie The Deer Hunter, and given an alternate 
 ##Aims:##
 * How to allow the user to bet on the game?
 
+for the file:
+
+#Hangman3.py#
+
+This is a standard hangman game, although it uses a flat file I've created from a massive word list - I've cut the 2 letter words, and also removed any words with apostrophes and other oddities, leaving 10847 possible words for the game.
+
+##Aims:##
+*TKinter this, and make it more attractive to play
+
 
 
 

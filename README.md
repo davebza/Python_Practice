@@ -31,6 +31,8 @@ for the file:
 
 This is a standard hangman game, although it uses a flat file I've created from a massive word list - I've cut the 2 letter words, and also removed any words with apostrophes and other oddities, leaving 10847 possible words for the game.
 
+I've included that flat file into this repo, but the file path will need to be edited in the hangman3.py file to point to whereever you have the file saved: it's an absolute link at the moment.
+
 ##Aims:##
 *TKinter this, and make it more attractive to play
 
